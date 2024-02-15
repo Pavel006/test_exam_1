@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/bitrix/main.app.passwords/templates/.default/script.js" => "17071465352760",]; ?>
